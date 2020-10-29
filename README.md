@@ -3,9 +3,9 @@
 
 ## About-
 
-Go through mention below to look at design.
+Go through file mention below to look at design.
 ```bash
 index.html
 ```
 <br>
-Its is a complete Responsive Home Page for food-delivery Web App.
+~ Its is a complete Responsive Home Page for food-delivery Web App.
