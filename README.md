@@ -3,6 +3,6 @@
 
 ## About-
 
-Go through index File to look how it is.
+Go through index.html File to look how it is.
 <br>
-Its is a complete Responsive Home Page for food-delivery Web App
+Its is a complete Responsive Home Page for food-delivery Web App.
